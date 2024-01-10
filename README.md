@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kamal-Kishor-Rajput 👨🏻‍💻</h1>
 <h3 align="center">I'm a Full-Stack Web Developer with hands-on experience in designing, developing, and implementing
-        applications and solutions using JavaScript, ReactJS.</h3>
+        applications and solutions using TypeScript, CreateJs, JavaScript, ReactJS, NodeJs, MongoDb, PostgreSQL.</h3>
 
 <p align="center"> <img
                 src="https://komarev.com/ghpvc/?username=kamal-k-rajput&label=Profile%20views&color=0e75b6&style=flat"
@@ -10,7 +10,7 @@
                 src="https://user-images.githubusercontent.com/40136017/134124139-172a975d-1cf3-4538-8049-8efab00e4489.png"
                 alt="kamal-kishor-rajput" /> </p>
 
-- 🌱 I’m currently learning **MERN FULL STACK DEVELOPEMNT**
+- 🌱 I’m currently Working as  **FULL STACK DEVELOPER ** at **Taazaa Tech Pvt Ltd**
 
 - 💬 Ask me about **JAVASCRIPT, REACT, DS-ALGO**
 
