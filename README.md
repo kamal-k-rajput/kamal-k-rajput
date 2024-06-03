@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kamal-Kishor-Rajput 👨🏻‍💻</h1>
 <h3 align="center">I'm a Full-Stack Web Developer with hands-on experience in designing, developing, and implementing
-        applications and solutions using TypeScript, CreateJs, JavaScript, ReactJS, NodeJs, MongoDb, PostgreSQL.</h3>
+        applications and solutions using TypeScript, CreateJs, JavaScript, ReactJS, NodeJs, MongoDb, PostgreSQL, AWS, NextJs.</h3>
 
 <p align="center"> <img
                 src="https://komarev.com/ghpvc/?username=kamal-k-rajput&label=Profile%20views&color=0e75b6&style=flat"
