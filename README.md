@@ -10,7 +10,7 @@
                 src="https://user-images.githubusercontent.com/40136017/134124139-172a975d-1cf3-4538-8049-8efab00e4489.png"
                 alt="kamal-kishor-rajput" /> </p>
 
-- 🌱 I’m currently Working as  **FULL STACK DEVELOPER ** at **Taazaa Tech Pvt Ltd**
+- 🌱 I’m currently Working as  **FULL STACK DEVELOPER ** at **Finkeda**
 
 - 💬 Ask me about **JAVASCRIPT, REACT, DS-ALGO**
 
